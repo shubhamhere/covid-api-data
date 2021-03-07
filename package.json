@@ -1,6 +1,5 @@
 {
   "name": "corona-cases",
-  "homepage": "https://shubhamhere.github.io/covid-api-data",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
