@@ -15,7 +15,7 @@ function LineGraph(props) {
                 datasets: [
                     {
                         label: 'Corona Cases across the country',
-                        fill: true,
+                        fill: false,
                         lineTension: 0.1,
                         backgroundColor: 'rgba(75,192,192,0.4)',
                         borderColor: 'rgba(75,192,192,1)',
